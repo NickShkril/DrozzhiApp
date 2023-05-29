@@ -34,3 +34,5 @@ tests/_support/_generated
 
 #vagrant folder
 /.vagrant
+/migrations/m230529_045019_author.php
+/migrations/m230529_045024_book.php
