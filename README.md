@@ -12,10 +12,10 @@
 --- 
 
 ### Ссылки для проверки
-⦁	GET /api/v1/books/list - получение списка книг с именем автора
-⦁	GET /api/v1/books/view/{id} - получение данных книги по ID
-⦁	PATCH /api/v1/books/update/{id} - обновление данных книги
-⦁	DELETE /api/v1/books/delete/{id} - удаление записи книги из базы данных
+-	GET /api/v1/books/list - получение списка книг с именем автора
+-	GET /api/v1/books/view/{id} - получение данных книги по ID
+-	PATCH /api/v1/books/update/{id} - обновление данных книги
+-	DELETE /api/v1/books/delete/{id} - удаление записи книги из базы данных
 
 
 
