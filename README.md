@@ -1,5 +1,4 @@
 # DrozzhiApp
-# DrozzhiApp
 
 ## YII2 приложение для просмотра книг
 
